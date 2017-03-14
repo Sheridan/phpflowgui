@@ -1,0 +1,2 @@
+php_flag implicit_flush on
+php_value output_buffering "0"
